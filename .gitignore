@@ -90,3 +90,8 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# hardhat
+typechain
+artifacts
+cache
